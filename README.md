@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a freelancer and studying at Universitas Pakuan<br>🌱 I’m currently learning Microservices Architecture & Machine Learning<br>💬 Hit me up!
+🔭 Working as a freelancer and studying at Universitas Pakuan<br>🌱 I’m currently learning Microservices Architecture & Machine Learning<br>💬 Hit me up!
 
 
 ## 🌐 Socials:
